@@ -1,2 +1,3 @@
-2025/07/23-15:27:43.148 6230 Creating DB C:\Users\agatsya.r\Documents\Prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2025/07/23-15:27:43.161 6230 Reusing MANIFEST C:\Users\agatsya.r\Documents\Prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/07/23-15:38:19.731 34b0 Reusing MANIFEST C:\Users\agatsya.r\Documents\Prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/07/23-15:38:19.734 34b0 Recovering log #3
+2025/07/23-15:38:19.735 34b0 Reusing old log C:\Users\agatsya.r\Documents\Prodapt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
